@@ -1,5 +1,5 @@
 backend:
-  name: gitHub
+  name: github
   branch: master
 
 media_folder: static/assets
